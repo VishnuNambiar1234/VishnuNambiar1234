@@ -1,5 +1,5 @@
 ## About Me
-- I'm a University of Texas at Dallas student completing a BS in Actuarial Science.
+- I'm a University of Texas at Dallas student completing a BS in Actuarial Science and a BS in Data Science.
 - I'm interested in AI models and risk analytics. 
 - I enjoy creating applications that involve new and emerging technologies.
 
